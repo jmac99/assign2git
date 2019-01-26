@@ -3,4 +3,6 @@ Jonathan (Jack) MacArthur
 
 first change
 
-testbranch change
+
+Resolution to the merge conflict
+
